@@ -1,2 +1,2 @@
 # datastructure-algorithms
-Data Structure and Algoritms
+Data Structure and Algorithms
